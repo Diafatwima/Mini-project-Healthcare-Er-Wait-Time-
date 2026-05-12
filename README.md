@@ -9,4 +9,6 @@ content
  Key Features:
  * Avg. wait times by urgency level and weekday
  * Time-of-day analysis
- *Filters for region and season<img width="444" height="228" alt="Screenshot 2026-05-12 222337" src="https://github.com/user-attachments/assets/e0c71bb5-5f2d-4971-936a-597f39198eb2" />
+ *Filters for region and season
+
+<img width="444" height="228" alt="Screenshot 2026-05-12 222337" src="https://github.com/user-attachments/assets/e0c71bb5-5f2d-4971-936a-597f39198eb2" />
